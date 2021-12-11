@@ -28,7 +28,7 @@ source("EDA.R", echo = FALSE)
 
 <center> 
 
-![Imdb data analysis](imdb.png){width=55%} 
+![The difference between male and female Romance movie ratings](menvswomen.png){width=45%} 
 
 </center>
 
